@@ -1,5 +1,5 @@
 #!/usr/bin/env/ python3
-"""Importing slack_sdk to send messages"""
+"""Importing slack_sdk to send messages."""
 from slack_sdk import WebClient
 from slack_sdk.errors import SlackApiError
 
